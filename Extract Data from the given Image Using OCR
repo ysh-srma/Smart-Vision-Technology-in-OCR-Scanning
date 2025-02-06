@@ -1,3 +1,5 @@
+#Extract data from image using ocr scanning
+#Import libraries
 !apt-get install -y tesseract-ocr
 !pip install pytesseract opencv-python-headless
 !pip install -q tensorflow keras opencv-python
